@@ -8,7 +8,7 @@ To automatically recommend the most suitable psychometric and skill assessments 
 Traditional keyword matching fails to understand meaning; this project solves that using semantic search and LLM reasoning.
 
 ### How the System Works
-# 1.  Dataset : i)shl_catalog.csv[Prepared by web scraping] (List of SHL product assessments with):
+ 1.  Dataset : i)shl_catalog.csv[Prepared by web scraping] (List of SHL product assessments with):
 assessment name,
 URL,
 description,
@@ -89,6 +89,6 @@ This metric indicates how effectively the system retrieves relevant recommendati
 | Vector Engine    | FAISS (IndexFlatIP)              |
 | LLM Layer        | Gemini Flash API                 |
 | Evaluation       | Recall@10                        |
-| Libraries        | pandas, numpy, sklearn, regex    |
+
 
 
