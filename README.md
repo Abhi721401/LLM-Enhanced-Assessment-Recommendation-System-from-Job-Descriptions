@@ -6,7 +6,7 @@ This project implements an AI-based recommendation engine that suggests SHL asse
 
 To automatically recommend the most suitable psychometric and skill assessments for a given hiring query or job description.
 Traditional keyword matching fails to understand meaning; this project solves that using semantic search and LLM reasoning.
-![Alt text](images/objective.png)
+![Alt text](objective.png)
 
 ### How the System Works
  1.  Dataset :
